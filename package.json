@@ -22,7 +22,7 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "7.19.0",
+    "ember-cli-babel": "7.20.4",
     "graphql-tag": "2.10.3"
   },
   "devDependencies": {
